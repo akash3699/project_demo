@@ -1,4 +1,4 @@
-function delete()
+shshjssbbfunction delete()
 {
 	alert("Hello Github");
 	alert("khaddyatla Satara");

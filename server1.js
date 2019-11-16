@@ -1,4 +1,5 @@
-echo "heyy"
+echo "heyy Rajesh"
+echo "nikal "
 
 
 jwusuehshjssbbfunction delete()
